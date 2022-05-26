@@ -1,0 +1,59 @@
+h1.idea{
+	color:blue
+
+
+}
+}
+
+
+h2.aviso{
+
+	border: blue 3px dotted;
+}
+body{
+	font-family: arial, helvetica;
+	background: #e8e8e8;}
+.menu{
+	list-style: none;
+	padding: 0;
+	background:#FF0000;
+	width: 90%;
+	max-width: 1000px:
+	margin: auto;
+}
+
+.menu li a{
+	text-decoration: none;
+	color: white;
+	padding: 20px;
+	display: black;
+
+}
+
+.menu li{
+	display: inline-block;
+	text-align: center;
+}
+.menu li a:hover{
+	background: #ef8354
+}
+.titulo{
+font-family: italica
+color: olive green
+
+}
+p.f1{
+	color: purple;
+
+
+}
+h3.relleno{
+	color: red
+	margin:20px 30px 5px 10px;
+}
+p.info{
+	color: purple
+}
+h3.border{
+	border: blue 3px dotted;
+}
